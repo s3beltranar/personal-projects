@@ -1,2 +1,2 @@
 # personal-projects
-Collection of my personal programming projects, organized by complexity level.
+Collection of my personal programming projects.
